@@ -1,7 +1,12 @@
-![naglowek](https://github.com/user-attachments/assets/897931af-ff95-4fe4-bfe4-effdeb289cd9)
-# Fallout Nevada - Spolszczenie grafik
-Uzupełnienie spolszczenia gry Fallout Nevada
+![naglowek_spolszczenie](https://github.com/user-attachments/assets/27271bcc-e74c-4292-97df-8eaa73969039)
 
-Fallout Nevada oryginalnie został wydany w języku rosyjskim. Polskie tłumaczenie gry zawiera wyłącznie tłumaczenie dialogów oraz opisów. Elementy graficzne gry zostały przekopiowane z poprzednich części (Fallout1/2) bez zwrócenia uwagi na to, że Fallout Nevada posiada odmieniony interfejs graficzny. Postanowiłem to zmienić i w tym repozytorium można pobrać gotowy zestaw grafik z polskimi napisami.
+# Fallout Nevada - Spolszczenie
+Nowe, kompletne spolszczenie stworzone we współpracy z portalem fallout-corner.pl<br><br>
+![cropped-logo1-3037015981](https://github.com/user-attachments/assets/19c6701f-d180-4222-bfca-5776293a2081)<br>
+
+Fallout Nevada oryginalnie został wydany w języku rosyjskim. Polskie tłumaczenie gry zawiera dialogi oraz opisy. Teraz także spolszczony został interfejs graficzny! (Fallout Nevada posiada swój własny interfejs, nieco inny niż w F1/F2).
 
 ## Pobierz <a href="https://github.com/bayerchemistry/fallout_nevada_pl/releases/tag/fallout">tutaj</a>
+
+![obraz](https://github.com/user-attachments/assets/30fed220-7032-4d56-bea4-22da28054f56)
+![obraz](https://github.com/user-attachments/assets/1c2e30b4-7ac9-48ab-b574-03d622d7c797)
