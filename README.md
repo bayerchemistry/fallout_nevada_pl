@@ -1,8 +1,8 @@
-<center>![naglowek_spolszczenie](https://github.com/user-attachments/assets/27271bcc-e74c-4292-97df-8eaa73969039)</center>
+![naglowek_spolszczenie](https://github.com/user-attachments/assets/27271bcc-e74c-4292-97df-8eaa73969039)
 
 # Fallout Nevada - Spolszczenie
 Nowe, kompletne spolszczenie stworzone we współpracy z portalem fallout-corner.pl<br>
-<center>![cropped-logo1-3037015981](https://github.com/user-attachments/assets/19c6701f-d180-4222-bfca-5776293a2081)</center>
+![cropped-logo1-3037015981](https://github.com/user-attachments/assets/19c6701f-d180-4222-bfca-5776293a2081)
 
 Fallout Nevada oryginalnie został wydany w języku rosyjskim. Polskie tłumaczenie gry zawiera dialogi oraz opisy. Teraz także spolszczony został interfejs graficzny, który był zmieniony przez zespół Nevada Band. 
 
