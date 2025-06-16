@@ -1,0 +1,2 @@
+{100}{}{Fryzura - D³ugie W³osy}
+{101}{}{D³ugie rozpuszczone w³osy, opadaj¹ce na ramiona. Twoje w³osy lœni¹ w promieniach S³oñca i nikt nie pozostaje wobec nich obojêtny. Posiadasz dziwny kombinezon z numerem 13. Nikt nie wie, sk¹d go wzi¹³eœ.}

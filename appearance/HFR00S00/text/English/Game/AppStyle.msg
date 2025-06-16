@@ -1,0 +1,2 @@
+{100}{}{Fryzura - Brunetka}
+{101}{}{Inne kobiety w Krypcie maj¹ d³ugie w³osy zwi¹zane w kucyk. Twoje ciemne w³osy s¹ równo przyciête i opadaj¹ na ramiona. W po³¹czeniu z przydzielonym czarnym kombinezonem, wzbudzaj¹ zazdroœæ i wywo³uj¹ krzywe spojrzenia za twoimi plecami.}

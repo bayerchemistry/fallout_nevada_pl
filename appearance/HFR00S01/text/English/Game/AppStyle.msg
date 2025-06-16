@@ -1,0 +1,2 @@
+{100}{}{Fryzura - Blond}
+{101}{}{Twoje jasne w³osy o kolorze miodu zawsze by³y jednym z g³ównych tematów rozmów w Krypcie. Mê¿czyŸni je adoruj¹, a kobiety zazdrosz¹. Ty nie zamieni³abyœ je za nic. Masz dziwny kombinezon z numerem 13 i nikt nie wie, sk¹d on siê wzi¹³.}

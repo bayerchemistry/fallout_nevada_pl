@@ -1,0 +1,2 @@
+{100}{}{Fryzura - Ruda}
+{101}{}{Niektórzy mówi¹, ¿e rude w³osy s¹ oznak¹ braku duszy i wi¹¿¹ siê z czarn¹ magi¹. Kto by siê jednak przejmowa³ tymi przes¹dami, gdy twój urok jest po prostu nieziemski. Dodatkowo twój kombinezon z numerem 13 odgrywa naprawdê wa¿n¹ rolê.}
