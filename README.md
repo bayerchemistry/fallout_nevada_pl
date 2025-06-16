@@ -6,6 +6,8 @@ Nowe, kompletne spolszczenie stworzone we współpracy z portalem fallout-corner
 
 Fallout Nevada oryginalnie został wydany w języku rosyjskim. Polskie tłumaczenie gry zawiera dialogi oraz opisy. Teraz także spolszczony został interfejs graficzny, który był zmieniony przez zespół Nevada Band. 
 
+![obraz](https://github.com/user-attachments/assets/3bf2c64c-1da5-4d30-94bd-944872528ffb)
+
 ## Pobierz <a href="https://github.com/bayerchemistry/fallout_nevada_pl/releases/tag/fallout">tutaj</a>
 
 Prawa autorskie do tłumaczenia posiada serwis Fallout Corner - fallout-corner.pl
