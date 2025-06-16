@@ -9,33 +9,13 @@ Fallout Nevada oryginalnie został wydany w języku rosyjskim. Polskie tłumacze
 ## Pobierz <a href="https://github.com/bayerchemistry/fallout_nevada_pl/releases/tag/fallout">tutaj</a>
 
 ![obraz](https://github.com/user-attachments/assets/3bf2c64c-1da5-4d30-94bd-944872528ffb)
-![obraz](https://github.com/user-attachments/assets/a7b94a49-e12d-4717-ad3c-fe90be2c0013)
+![obraz](https://github.com/user-attachments/assets/30fed220-7032-4d56-bea4-22da28054f56)
+
 
 Prawa autorskie do tłumaczenia posiada serwis Fallout Corner - fallout-corner.pl
 
 Grafika:
 Adrian (bayerchemistry)
-
-Tłumacze dialogów i opisów:
-dr Paweł Aleksandrowicz
-Tomasz "Szponix" Łobos
-Małgorzata Duda
-Hanna Gmyz
-Kamil Sadowski
-Kamila Regel
-Jakub Grzeszczak
-Łukasz Mroczkowski
-Jędrzej Pacak
-Paulina Mysiakowska
-Tomasz Jastrzębski
-Asterling
-fffffffff
-MackieMajcher
-Drako_Schiffer
-Loru
-Ruskij Partizan
-Arracht
-Kielich
 
 Testerzy:
 Krzysztof Marzec
