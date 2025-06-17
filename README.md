@@ -6,7 +6,7 @@ Nowe, kompletne spolszczenie stworzone we współpracy z portalem fallout-corner
 
 Fallout Nevada oryginalnie został wydany w języku rosyjskim. Polskie tłumaczenie gry zawiera dialogi oraz opisy. Teraz także spolszczony został interfejs graficzny! (Fallout Nevada posiada swój własny interfejs, nieco inny niż w F1/F2).
 
-## Pobierz <a href="https://github.com/bayerchemistry/fallout_nevada_pl/releases/tag/fallout">tutaj</a>
+## Pobierz [tutaj](https://github.com/bayerchemistry/fallout_nevada_pl/releases/tag/fallout_nevada)
 
 ![obraz](https://github.com/user-attachments/assets/30fed220-7032-4d56-bea4-22da28054f56)
 ![obraz](https://github.com/user-attachments/assets/1c2e30b4-7ac9-48ab-b574-03d622d7c797)
